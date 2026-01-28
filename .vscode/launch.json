@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Konto",
+            "request": "launch",
+            "mainClass": "com.cc.java.Konto",
+            "projectName": "02c_CodeLab_01_15340d7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
